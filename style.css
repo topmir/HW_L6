@@ -1,0 +1,19 @@
+nav{
+    background-color:#3498db;
+}
+body{
+    background-color:#34495e;
+    font-family:"Verdana";
+
+}
+.textBox{
+    background-color:white;
+    margin: 0px 175px 0px 175px;
+}
+#logo{
+    margin: 0px 175px 0px 175px;
+}
+#breadcrumb{
+    background-color:white;
+    margin: 0px 175px 0px 175px;
+}
